@@ -1,7 +1,6 @@
 # Implement Autoencoder and K-means on Cifar-10 dataset
 ## Overview
-### Implement autoencoders on cifar-10 dataset and generate sparse representation of images, Then displayed the generated images of autoencoder. Futher used the spatial 
-representation of the images and implemented K-Means clustering on it with K-value as 10 and computed the Silhoutte score for 10 clusters.
+### Implement autoencoders on cifar-10 dataset and generate sparse representation of images, Then displayed the generated images of autoencoder.Futher used the spatial  representation of the images and implemented K-Means clustering on it with K-value as 10 and computed the Silhoutte score for 10 clusters.
 
 ## Dataset
 ### The dataset contains training set of 50000 examples and a test set of 10000 examples. Each example is 32x32 image where each image is 32 pixel in height and 32 pixel in width for a total of 1024 pixel in total. Each
