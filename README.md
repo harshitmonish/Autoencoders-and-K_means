@@ -8,3 +8,6 @@
 ## Implementation
 ### First I have created the convolution autoencoder model where I have created encoder and decoder model seperately and then combined them both to create the final model. 
 ### Next I have used the sparse representation of encoder and implemented K-means with k=10 clusters to classify images using the sparse representation of the images.
+
+# Author 
+ * [Harshit Monish](https://github.com/harshitmonish)
